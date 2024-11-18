@@ -1,0 +1,8 @@
+# Ignore build artifacts
+build/
+install/
+log/
+.colcon/
+*.pyc
+__pycache__/
+*.swp
